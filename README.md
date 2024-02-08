@@ -1,7 +1,7 @@
 # Police-Department
 
-**DSD of Police department
-**
+ERD of Police department
+
 <img width="396" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/51a64d7f-a65b-4104-8758-de37c2e9dc9e">
 
 Table
@@ -18,8 +18,8 @@ Import data
 <img width="296" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/1a5fe357-96cb-41b4-aaad-68a0512d54b5">
 <img width="272" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/03fcea0f-a789-49d9-8cb3-0b6de33d8fde">
 
-**Examples of complicated queries
-**
+Examples of complicated queries
+:
 A municipality wishes to send warning letters to owners of fines whose deadline for payment of their debt is one month or less, as well as debtors whose deadline for payment of their debt has passed. With the exception of citizens who filed an appeal against the fine he received 
 
 ->
@@ -35,8 +35,8 @@ In order to get a qualitative measure of the level of comfort of the residents a
 
 <img width="685" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/bd373e60-ff00-4efa-b2ea-93bd30e8c2c9">
 
-**Integration with the Education Department
-**
+Integration with the Education Department
+
 
 ERD integrated
 
