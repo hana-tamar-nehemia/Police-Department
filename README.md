@@ -2,11 +2,11 @@
 
 ERD of Police department
 
-<img width="396" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/51a64d7f-a65b-4104-8758-de37c2e9dc9e">
+<img width="455" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/9096b870-5bc9-4027-9cc3-5aaeea64b7aa">
 
-Table
-  
-<img width="452" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/35e08dc5-50b6-4a1e-9ce4-fd932e09ef13">
+DSD of Police department
+
+<img width="396" alt="image" src="https://github.com/hana-tamar-nehemia/Police-Department/assets/73160604/51a64d7f-a65b-4104-8758-de37c2e9dc9e">
 
 table create
   
